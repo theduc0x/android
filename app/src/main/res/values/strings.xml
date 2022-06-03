@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">AppGame</string>
+    // Activity Login
+    <string name="tv_title">Đăng nhập hệ thống</string>
+    <string name="hint_user">Nhập tên tài khoản</string>
+    <string name="hint_pass">Nhập mật khẩu"</string>
+    <string name="bt_login">Đăng nhập"</string>
+    <string name="bt_delete">Xóa"</string>
+
+    // Activity Game Play
+    <string name="tv_game_play">Chọn hình phía dưới</string>
+
+    // Activity Animation Alpha
+    <string name="tv_title_alpha">Click vào hình</string>
+
+    // Menu Option
+    <string name="mn_info">Đăng nhập</string>
+    <string name="mn_subject">Môn học</string>
+    <string name="mn_calendar">Đếm ngày</string>
+    <string name="mn_anim">Anim Alpha/Rotate</string>
+    <string name="mn_anim2">Anim Scale/Translate</string>
+
+    // Tên array ảnh chơi game
+    <string-array name="array_name">
+
+        <item>anh1</item>
+        <item>anh2</item>
+        <item>anh3</item>
+        <item>anh4</item>
+        <item>anh5</item>
+        <item>anh6</item>
+        <item>anh7</item>
+        <item>anh8</item>
+        <item>anh9</item>
+        <item>anh10</item>
+        <item>anh11</item>
+        <item>anh12</item>
+
+    </string-array>
+
+    // Array môn học
+    <string-array name="array_monhoc">
+
+        <item>Toán</item>
+        <item>Lý</item>
+        <item>Hóa</item>
+        <item>Sinh</item>
+        <item>Lịch Sử</item>
+        <item>Địa Lý</item>
+        <item>Tin Học</item>
+        <item>Tiếng Anh</item>
+        <item>Văn</item>
+        <item>Công Nghệ</item>
+        <item>Vẽ</item>
+        <item>Âm nhạc</item>
+        <item>anh1</item>
+        <item>anh2</item>
+        <item>anh3</item>
+        <item>anh4</item>
+        <item>anh5</item>
+        <item>anh6</item>
+        <item>anh7</item>
+        <item>anh8</item>
+        <item>anh9</item>
+        <item>anh10</item>
+        <item>anh11</item>
+        <item>anh12</item>
+
+    </string-array>
+
+    <string name="title_activity_list_subject">ListSubjectActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>

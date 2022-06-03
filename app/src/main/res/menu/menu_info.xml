@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mn_info"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="always"
+        android:title=""
+        ></item>
+    <item
+        android:id="@+id/mn_subject"
+        android:title="@string/mn_subject"
+        ></item>
+
+    <item
+        android:id="@+id/mn_calendar"
+        android:title="@string/mn_calendar"
+        ></item>
+    <item
+        android:id="@+id/mn_anim"
+        android:title="@string/mn_anim"
+        ></item>
+
+    <item
+        android:id="@+id/mn_anim2"
+        android:title="@string/mn_anim2"
+        ></item>
+
+
+
+</menu>
